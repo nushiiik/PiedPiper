@@ -1,0 +1,201 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 84px;
+    background-color: #007765;
+}
+.content_h {
+    width: 1219px;
+    margin: auto;
+    padding-right: 55px;
+    padding-left: 55px;
+}
+.logo1 {
+    width: 184px;
+    height: 45px;
+    float: left;
+    padding-top: 20px;
+}
+.links {
+    text-align: right;
+    color: #ffffff;
+    font-size: 24px;
+    font-family: 'Roboto', sans-serif;
+    padding-top: 29px;
+}
+a {
+    color: #ffffff;
+}
+
+.container_m {
+    width: auto;
+    height: 3054px;
+}
+.banner1 {
+    height: 403px;
+    background-image: url('img/image@2x v.png');
+    background-size: cover;
+}
+.banner1 span {
+    font-size: 72px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    display:block;
+    text-align: center;
+    padding-top: 160px;
+}
+.the_problem {
+    height: 719px;
+    background-color: #EEEEEE;
+}
+.the_problem span {
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    color: #007765;
+    display: block;
+    text-align: center;
+    padding-top: 48px;
+}
+.the_problem span::before {
+    display: block;
+    content: '';
+    height: 75px;
+    margin: -50px 0 0;
+}
+.the_problem p {
+    width: 1219px;
+    padding-right: 55px;
+    padding-left: 55px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.banner2 {
+    height: 483px;
+    background-image: url('img/image@2x.png');
+    background-size: cover;
+}
+.banner2 span {
+    font-size: 48px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #ffffff;
+    display: block;
+    text-align: center;
+    padding-top: 128px;
+}
+.piedpipercoin {
+    width: 1219px;
+    height: 604px;
+    padding-left: 55px;
+    padding-right: 55px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.piedpipercoin .logo2 {
+    width: 115px;
+    height: 115px;
+    float: left;
+    padding-top: 16px;
+    padding-right: 48px;
+}
+.piedpipercoin span {
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    color: #007765;
+    display:block;
+    text-align: center;
+    padding-top: 48px;
+}
+.piedpipercoin span::before {
+    display: block;
+    content: '';
+    height: 75px;
+    margin: -50px 0 0;
+}
+.piedpipercoin p {
+    font-size: 32px;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.the_team {
+    height: 845px;
+    background-color: #EEEEEE;
+}
+.the_team span {
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    color: #007765;
+    display:block;
+    text-align: center;
+    padding-top: 48px;
+}
+.the_team span::before {
+    display: block;
+    content: '';
+    height: 75px;
+    margin: -50px 0 0;
+}
+.all {
+    width: 1219px;
+    height: 596px;
+    padding-top: 32px;
+    margin: auto;
+    padding-right: 55px;
+    padding-left: 55px;
+}
+.person {
+    width:350px;
+    height: 283px;
+    display: inline-block;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.person img {
+    width: 168px;
+    height: 168px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 24px;
+}
+.name {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    color: #007765;
+    text-align: center;
+    line-height: 0;
+}
+.position {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #000000;
+    text-align: center;
+    line-height: 0;
+
+}
+footer {
+    width: auto;
+    height: 176px;
+    background-color: #333333;
+}
+.content_f {
+    width: 1219px;
+    margin: auto;
+    padding-right: 55px;
+    padding-left: 55px;
+}
+.content_f span {
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    display: block;
+    text-align: center;
+    padding-top: 48px;
+}
